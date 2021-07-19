@@ -18,11 +18,13 @@ _If you're looking for just the AG-Grid Sketch template, you can grab it from [h
 ### Restyling the branding
 
 1. Modifying the content typography
-    ![Tux, the Linux mascot](https://palmaka.design/sketch-uits-db/styling_color_palette.jpg)
-    <img src="https://palmaka.design/sketch-uits-db/styling_color_palette@2x.jpg" alt="drawing" width="300"/>
+    [<img src="https://palmaka.design/sketch-uits-db/styling_content_type@2x.jpg" alt="drawing" width="300"/>](#)
 2. Adjusting the type inside buttons and text inputs
+    <img src="https://palmaka.design/sketch-uits-db/styling_ui_type@2x.jpg" alt="drawing" width="300"/>
 3. Managing the colour palette
+    <img src="https://palmaka.design/sketch-uits-db/styling_ui_surfaces@2x.jpg" alt="drawing" width="300"/>
 4. Restyling the UI's surfaces
+    <img src="https://palmaka.design/sketch-uits-db/styling_color_palette@2x.jpg" alt="drawing" width="300"/>
 
 ### Using the UI kit
 
