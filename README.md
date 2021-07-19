@@ -18,6 +18,8 @@ _If you're looking for just the AG-Grid Sketch template, you can grab it from [h
 ### Restyling the branding
 
 1. Modifying the content typography
+    ![Tux, the Linux mascot](palmaka.design/sketch-uits-db/styling_color_palette.jpg)
+    <img src="palmaka.design/sketch-uits-db/styling_color_palette@2x.jpg" alt="drawing" width="300"/>
 2. Adjusting the type inside buttons and text inputs
 3. Managing the colour palette
 4. Restyling the UI's surfaces
@@ -28,3 +30,5 @@ _If you're looking for just the AG-Grid Sketch template, you can grab it from [h
 2. Difference between the dark mode and over dark variations.
 3. Using base surfaces
 4. Using UI surface variations to reflect UI element state
+
+styling_color_palette 
