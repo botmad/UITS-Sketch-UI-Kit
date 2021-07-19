@@ -3,9 +3,9 @@ Sketch UI kit that uses the Universal Interface Theming Standard variables.
 
 ---
 
-Since Sketch introduced the Smart Layout, Color Variables, Overrides etc., creating components and maintaining all these factors can be very time-consuming and distract you from your actual purpose - designing a good user experience. This UI kit aims to take some of the maintenance pain away. It's a starter template intended to make restyling of its entire design system easier, so you can match it with the target branding upfront before assembling your UI. 
-
-UI kit's structure and naming convention follow the Universal Interface Theming Standard (UITS).
+>Since Sketch introduced the Smart Layout, Color Variables, Overrides etc., creating components and maintaining all these factors can be very time-consuming and distract you from your actual purpose - designing a good user experience. This UI kit aims to take some of the maintenance pain away. It's a starter template intended to make restyling of its entire design system easier, so you can match it with the target branding upfront before assembling your UI. 
+>
+>UI kit's structure and naming convention follow the Universal Interface Theming Standard (UITS).
 
 __AG-Grid template included__
 
@@ -20,14 +20,14 @@ _If you're looking for just the AG-Grid Sketch template, you can grab it from [h
 
 ### Restyling the branding
 
-1. Modifying the body typography
+1. Modifying the content typography
 2. Adjusting the type inside buttons and text inputs
 3. Managing the colour palette
 4. Restyling the UI's surfaces
 
 ### Using the UI kit
 
-1. Providing developer style guide upfront
+1. Providing the developer style guide upfront
 2. Difference between the dark mode and over dark variations.
 3. Using base surfaces
 4. Using UI surface variations to reflect UI element state
