@@ -1,5 +1,4 @@
 # UITS Sketch UI Kit
-Sketch UI kit that uses the Universal Interface Theming Standard variables.
 
 >Since Sketch introduced the Smart Layout, Color Variables, Overrides etc., creating components and maintaining all these factors can be very time-consuming and distract you from your actual purpose - designing a good user experience. This UI kit aims to take some of the maintenance pain away. It's a starter template intended to make restyling of its entire design system easier, so you can match it with the target branding upfront before assembling your UI. 
 >
