@@ -1,5 +1,7 @@
 # UITS Sketch UI Kit
 
+[Download](https://github.com/botmad/UITS-Sketch-UI-Kit/releases/latest/download/UITS.sketch)
+
 > Since Sketch introduced the Smart Layout, Color Variables, Overrides etc., creating design system and maintaining all their factors can be very time-consuming and distract you from your actual purpose - designing a good user experience. This UI kit aims to take some of the maintenance pain away. It's a starter template intended to make restyling of its entire design system easier, so you can match it with the target branding upfront before assembling your UI. 
 >
 > UI kit's structure and naming convention follow the Universal Interface Theming Standard (UITS).
