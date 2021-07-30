@@ -11,7 +11,7 @@ __AG-Grid template included__
 The UI kit comes with a template for creating the [AG-Grid](https://www.ag-grid.com/) tables. Supported AG-Grid themes:
 - Alpine
 - Balham
-- Theme derived from the UITS settings that inherit the UI kit branding.
+- ~~Custom theme derived from the UITS configuration, inheriting the UI kit branding.~~ coming soon.
 
 > _If you're looking for just the AG-Grid Sketch template only, you can grab it from [here](https://github.com/botmad/AG-Grid-Sketch-Kit)_
 
