@@ -20,7 +20,7 @@ The UI kit comes with a template for creating the [AG-Grid](https://www.ag-grid.
 Particularly useful as a Sketch Library to serve as a shared fundament in collaborative projects.
 
 - __Fully theme-able.__  
-Restyling the entire design system can be done without having to tweak every component included in the package. The UI kit has a Styling page that serves as a "branding control panel", allowing modification of the look and feel in a single space.
+Restyling the entire design system can be done without having to tweak every component included in the package. The UI kit has a _Styling_ page that serves as a "branding control panel", allowing modification of the look and feel in a single space.
 
 - __Design variables set that is transmittable to development__  
 Having a variable-driven design system preset in Sketch saves time while enforcing the consistency and discipline of reusability. By utilising UITS, developers may use a textual set of properties to style their front-end instead of recreating it from mockups. Global style changes are easy to introduce within an existing system if it's just a matter of tweaking a variable.
