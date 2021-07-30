@@ -34,3 +34,15 @@ The UI kit comes with a template for creating the [AG-Grid](https://www.ag-grid.
 2. Difference between the dark mode and over dark variations.
 3. Using base surfaces
 4. Using UI surface variations to reflect UI element state -->
+
+## Why using this kit
+- __Well structured boiler-plate suitable for web and cross-platform designs.__  
+Particularly useful as a Sketch Library to serve as a shared fundament in collaborative projects.
+Fully Theme-able. Restyling the entire design system can be done without tweaking every component included in the package. The UI kit has a Styling page that serves as a "branding control panel", allowing modification of the look and feel in a single space.
+
+- __Design variables set that is transmittable to development.__  
+Having a variable-driven design system preset in Sketch saves time while enforcing the consistency and discipline of reusability. By utilising UITS, developers may use a textual set of properties to style their front-end instead of recreating it from mockups. Global style changes are easy to introduce within an existing system if it's just a matter of tweaking a variable.
+- __Developer style guides provided upfront.__  
+While design delivery tools like Zeplin are great enhancers of the precision of implementation, providing the style guide at the right time additionally increases the chance that the structure and naming convention remain synchronised between the design and development. 
+- __States for every interactive component.__  
+The style guide includes component states (disabled, hover, focused, active) to ensure correct implementation and accurate prototyping
