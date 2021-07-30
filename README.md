@@ -31,6 +31,9 @@ While design delivery tools like Zeplin are great enhancers of the precision of 
 - __States for every interactive component__  
 The style guide includes component states (disabled, hover, focused, active) to ensure correct implementation and accurate prototyping
 
+- __Smart Layout variations__  
+Many UI elements include Smart Layout variations, allowing the creation of symbols that auto-align based on their override fields configuration.
+
 - __Alternative size variations__  
 Base components come in multiple size variations, allowing the design system to cater for different cases. E.g. for desktop and mobile media queries within the same project, or to govern the UI framework for a data-dense app along with a separate brochure website promoting it.
 
