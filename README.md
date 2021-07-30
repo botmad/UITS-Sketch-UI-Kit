@@ -19,7 +19,7 @@ The UI kit comes with a template for creating the [AG-Grid](https://www.ag-grid.
 - __Well structured boiler-plate suitable for web and cross-platform designs__  
 Particularly useful as a Sketch Library to serve as a shared fundament in collaborative projects.
 
-- __Fully Theme-able.__  
+- __Fully theme-able.__  
 Restyling the entire design system can be done without having to tweak every component included in the package. The UI kit has a Styling page that serves as a "branding control panel", allowing modification of the look and feel in a single space.
 
 - __Design variables set that is transmittable to development__  
@@ -44,7 +44,7 @@ Base components come in multiple size variations, allowing the design system to 
     [<img src="https://palmaka.design/sketch-uits-db/styling_ui_type@2x.jpg" alt="drawing" width="300"/>](https://www.youtube.com/watch?v=4I2WlobJmes)
 3. Managing the colour palette<br>
     [<img src="https://palmaka.design/sketch-uits-db/styling_ui_surfaces@2x.jpg" alt="drawing" width="300"/>](https://www.youtube.com/watch?v=Apicmluye-c)
-    
+
 <!-- 4. Restyling the UI's surfaces<br>
     [<img src="https://palmaka.design/sketch-uits-db/styling_color_palette@2x.jpg" alt="drawing" width="300"/>](#) -->
 
