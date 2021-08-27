@@ -2,6 +2,11 @@
 
 <!-- [Download](https://github.com/botmad/UITS-Sketch-UI-Kit/releases/latest/download/UITS.sketch) -->
 
+> The idea behind creating this resource was to make a UI kit that makes it easier to match its look and feel with any UI framework. In most UI kits out there, only replacing the colours and fonts can be done effortlessly, while style subtleties remain distributed across multiple pages and components. This kit aims to reduce the amount of work needed to meet target branding by embedding reusable surfaces. The instances of these surfaces are distributed within the multitude of components that take advantage of the latest Sketch features.
+
+<img src="https://palmaka.design/sketch-uits-db/styling-panel.jpg" alt="drawing" width="300"/>[^1]
+[^1]: Restyle the entire kit from within the single styling panel. There's no need to go through the uncountable components with the risk of introducing inconsistencies.
+
 > Since Sketch introduced the Smart Layout, Color Variables, Overrides etc., creating design system and maintaining all their factors can be time-consuming and distract you from your actual purpose - designing a good user experience. This UI kit aims to take some of the maintenance pain away. It's a starter template intended to make restyling of its design system easier, so you can match it with the target branding upfront before assembling your UI. 
 >
 > UI kit's structure and naming convention follow the Universal Interface Theming Standard (UITS).
