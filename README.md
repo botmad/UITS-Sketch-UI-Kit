@@ -5,7 +5,7 @@
 The idea behind creating this resource was to make a UI kit that makes it easier to match its look and feel with any UI framework. In most UI kits out there, only replacing colours and fonts can be done effortlessly, while style/branding subtleties remain distributed across multiple pages and components. This kit aims to reduce the amount of restyling work needed to meet target branding by embedding instances of a few reusable surfaces within the multitude of symbols.
 
 <img src="https://palmaka.design/sketch-uits-db/styling-panel.jpg" alt="drawing"/>
-<sup>Restyle the entire kit from within the single styling panel. There's no need to go through the uncountable symbols.</sup>  
+<sup>Restyle the entire kit from within the single styling panel. There's no need to go through the uncountable symbols.</sup>\<br/><br/>
 
 Since Sketch introduced the [Smart Layout](https://www.sketch.com/features/smart-layout), [Color Variables](https://www.sketch.com/docs/designing/styling/color-variables/), [Overrides](https://www.sketch.com/docs/designing/symbols/editing-symbols/#how-to-edit-instances-with-overrides) etc., creating components and maintaining all their factors can be very time-consuming and distract you from your actual purpose - designing a good user experience. This UI kit aims to take some of the maintenance pain away by providing you with a range of symbols that take advantage of all of the aforementioned features. 
 <br/>
