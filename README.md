@@ -58,3 +58,10 @@ The UI kit comes with a template for creating the [AG-Grid](https://www.ag-grid.
 3. Using base surfaces
 4. Using UI surface variations to reflect UI element state -->
 
+<style>
+.markdown-body table th, .markdown-body table td {
+    padding: 6px 13px;
+    border: none;
+}
+</style>
+
