@@ -19,7 +19,7 @@ The UI kit comes with a template for creating the [AG-Grid](https://www.ag-grid.
 - Balham
 - ~~Custom theme derived from the UITS configuration, inheriting the UI kit branding.~~ coming soon.
 
-<img src="https://palmaka.design/sketch-uits-db/ag-grid@2x.jpg" alt="drawing"/>
+<img src="https://palmaka.design/sketch-uits-db/ag-grid-template@2x.jpg" alt="drawing"/>
 
 > _If you're looking for the AG-Grid Sketch template only, you can grab it from [here](https://github.com/botmad/AG-Grid-Sketch-Kit)_
 
