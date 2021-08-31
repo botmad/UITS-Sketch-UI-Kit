@@ -21,7 +21,7 @@ The UI kit comes with a template for creating the [AG-Grid](https://www.ag-grid.
 
 <img src="https://palmaka.design/sketch-uits-db/ag-grid@2x.jpg" alt="drawing"/>
 
-> _If you're looking for just the AG-Grid Sketch template only, you can grab it from [here](https://github.com/botmad/AG-Grid-Sketch-Kit)_
+> _If you're looking for the AG-Grid Sketch template only, you can grab it from [here](https://github.com/botmad/AG-Grid-Sketch-Kit)_
 
 ## Why using this kit
 
